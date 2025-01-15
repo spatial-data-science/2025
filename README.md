@@ -1,6 +1,6 @@
 # Spatial Data Science across Languages (SDSL) 2025
 
-__24-25 September, 2025, Salzburg, Austria__
+__17-18 September, 2025, Salzburg, Austria__
 
 <center>
 <a href="https://www.r-project.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Rlogo.png/274px-Rlogo.png" width=170></a>
@@ -36,7 +36,7 @@ The goal of the workshop is to attract a maximum of 30 on-site attendees.
 
 ## Venue
 
-The workshop will be held Sept 24 & 25, 2025, at the [Unipark Campus of the Paris Lodron University Salzburg](https://www.plus.ac.at/?lang=en).
+The workshop will be held Sept 17 & 18, 2025, at the [Unipark Campus of the Paris Lodron University Salzburg](https://www.plus.ac.at/?lang=en).
 
 The address is:
 
@@ -85,7 +85,7 @@ _To be announced_
 ## Supported by
 
 <center>
-<a href="https://numfocus.org/"><img src="figs/numfocus.png" width=200></a>
+<a href="https://numfocus.org/"><img src="figs/numfocus.png" width=200></a><br><br>
 <a href="https://www.plus.ac.at/geoinformatik/?lang=en"><img src="figs/zgis.png" width=180></a>
 <a href="https://www.plus.ac.at/?lang=en"><img src="figs/plus.svg" width=190></a>
 </center>
