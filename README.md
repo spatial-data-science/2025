@@ -3,8 +3,8 @@
 __17-18 September, 2025, Salzburg, Austria__
 
 <center>
-<a href="https://www.r-project.org/" style="margin-right: 50px;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Rlogo.png/274px-Rlogo.png" width=170></a>
-<a href="https://www.python.org/" style="margin-right: 50px;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/438px-Python-logo-notext.svg.png" width=150></a>
+<a href="https://www.r-project.org/" style="margin-right: 100px;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Rlogo.png/274px-Rlogo.png" width=170></a>
+<a href="https://www.python.org/" style="margin-right: 100px;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/438px-Python-logo-notext.svg.png" width=150></a>
 <a href="https://julialang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Julia_Programming_Language_Logo.svg/512px-Julia_Programming_Language_Logo.svg.png" width=170></a>
 </center>
 
@@ -44,7 +44,7 @@ The address is:
 > 5020 Salzburg<br>
 > Austria<br>
 
-([OpenStreetMap](https://www.openstreetmap.org/way/127807575) | [Google Maps](https://maps.app.goo.gl/g6yCwPMGSqyynjka8))
+[OpenStreetMap](https://www.openstreetmap.org/way/127807575) | [Google Maps](https://maps.app.goo.gl/g6yCwPMGSqyynjka8)
 
 ## Program Committee
 
