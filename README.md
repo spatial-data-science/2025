@@ -2,7 +2,11 @@
 
 __24-25 September, 2025, Salzburg, Austria__
 
-![Logos of R, Rust, Julia, and Python](logos.svg)
+<center>
+<a href="https://www.r-project.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Rlogo.png/274px-Rlogo.png" width=80></a>
+<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/438px-Python-logo-notext.svg.png" width=80></a>
+<a href="https://julialang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Julia_Programming_Language_Logo.svg/512px-Julia_Programming_Language_Logo.svg.png" width=80></a>
+</center>
 
 ## Goals
 
@@ -81,8 +85,8 @@ _To be announced_
 ## Supported by
 
 <center>
-<a href="https://numfocus.org/"><img src="figs/numfocus.png" width=200></a><br><br>
-<a href="https://www.plus.ac.at/geoinformatik/?lang=en"><img src="figs/zgis.png" width=200></a><br>
-<a href="https://www.plus.ac.at/?lang=en"><img src="figs/plus.jpg" width=200></a><br>
-<center>
+<a href="https://numfocus.org/"><img src="figs/numfocus.png" width=200></a>
+<a href="https://www.plus.ac.at/geoinformatik/?lang=en"><img src="figs/zgis.png" width=200></a>
+<a href="https://www.plus.ac.at/?lang=en"><img src="figs/plus.svg" width=200></a>
+</center>
  
