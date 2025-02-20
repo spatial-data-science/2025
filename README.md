@@ -1,6 +1,6 @@
 # Spatial Data Science across Languages (SDSL) 2025
 
-__17-18 September, 2025, Salzburg, Austria__
+__17-18 (+19) September, 2025, Salzburg, Austria__
 
 <center>
 <a href="https://www.r-project.org/" style="margin-right: 100px;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Rlogo.png/274px-Rlogo.png" width=170></a>
@@ -81,6 +81,8 @@ SDSL has a Discord server that will be used for communication during the worksho
 ## Program
 
 _To be announced_
+
+It is currently planeed to have a "Dev Day" on Friday 19th, optional and open for whoever wants to join and work on projects that rise during the workshop.
 
 ## Supported by
 
