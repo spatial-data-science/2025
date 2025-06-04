@@ -59,10 +59,9 @@ The address is:
 ## Local committee
 
 - Martin Sudmanns
-- Christian Neuwirth
 - [Lorena Abad](https://loreabad6.github.io/)
 
-In case of any queries, please contact Lorena ([lorena.abad@plus.ac.at](mailto:lorena.abad@plus.ac.at)).
+In case of any queries, please contact Martin ([martin.sudmanns@plus.ac.at](mailto:martin.sudmanns@plus.ac.at@plus.ac.at)).
 
 ## Registration
 
