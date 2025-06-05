@@ -65,8 +65,8 @@ In case of any queries, please contact Martin ([martin.sudmanns@plus.ac.at](mail
 
 ## Registration
 
-Registrations will be opened around May. 
-Note that the number of participants is limited.
+Please register for on-site and online participants using this form: [https://forms.gle/E9fpG88V2VQQKmjk9](https://forms.gle/E9fpG88V2VQQKmjk9). 
+Note that the number of on-site participants is limited. The programme committee will select the final list of on-site participants by mid of July.
 
 ### Online Attendance
 
